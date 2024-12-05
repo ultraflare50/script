@@ -1,0 +1,1 @@
+game:GetService('ReplicatedStorage').events.purchase:FireServer('Nuke', 'Item', nil, 99)
